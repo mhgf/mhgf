@@ -56,16 +56,10 @@ I enjoy designing clean architectures and scalable systems.
 
 ---
 
-## 📊 GitHub Stats
-
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact
 
-- LinkedIn: (your link here)
-- Email: (your professional email here)
+- LinkedIn: (https://www.linkedin.com/in/m-hferreira/)
+- Email: (mhferreira.14@outlook.com)
 
 ---
 
